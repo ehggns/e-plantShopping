@@ -2,7 +2,7 @@
   "name": "plant-shop",
   "private": true,
   "homepage": "https://ehggns.github.io/plant-shop",
-  "version": "0.0.0",
+  "version": "0.0.10",
   "type": "module",
   "scripts": {
     "dev": "vite",
